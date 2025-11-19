@@ -1,4 +1,4 @@
-"""TO-DO List dasturi - Tkinter va JSON bilan. CHATGPT tomonidan yaratilgan."""
+"""TO-DO List dasturi - Tkinter va JSON bilan."""
 
 # import tkinter as tk
 # from tkinter import messagebox
@@ -492,3 +492,4 @@ while True:
                 break
         else:
                 print("Unfortunately, there isn't such kind of choice.")
+
